@@ -1,0 +1,172 @@
+.bg {
+  width: 200px;
+
+  margin-top: 20px;
+
+  background-repeat: no-repeat;
+
+  background-image: url("/pawank23/images/Logo-Treehouse.png");
+}
+
+.logo {
+  display: flex;
+  justify-content: center;
+}
+.fonts {
+  text-align: center;
+  font-family: sans-serif;
+}
+
+.navbar {
+  background-image: url("/pawank23/images/Background\ Image.png");
+  height: 700px;
+}
+
+#navbar ul li {
+  display: inline-block;
+  padding: 20px 0px;
+  padding-right: 40px;
+}
+
+#navbar ul li a {
+  text-decoration: none;
+  color: white;
+  font-size: 14px;
+}
+.head {
+  font-family: Georgia, serif;
+  font-size: 22px;
+  margin-top: 150px;
+  color: white;
+}
+.h1 {
+  font-family: sans-serif;
+  font-size: 40px;
+}
+.button {
+  padding: 10px 18px 10px 18px;
+  font-size: 16px;
+  font-weight: 100;
+  background-color: rgb(248, 234, 79);
+  border: 2px none;
+  text-align: center;
+  color: white;
+}
+.service {
+  height: 580px;
+  text-align: center;
+  font-family: sans-serif;
+  background-color: white;
+}
+.serhead {
+  margin-top: 60px;
+  font-size: 50px;
+  font-weight: bold;
+}
+.header {
+  font-family: serif;
+  color: gray;
+  font-weight: lighter;
+  font-size: 22px;
+  margin-top: 10px;
+  text-align: center;
+}
+.ser1 {
+  margin-top: 70px;
+
+  margin: 20px 0px 0px 20px;
+}
+
+.services {
+  display: flex;
+  justify-items: center;
+  gap: 10px;
+  padding: 5px 5px 5px 5px;
+}
+
+.serpara {
+  color: gray;
+  text-align: center;
+}
+
+.serimg1 {
+  height: 100px;
+  width: 100px;
+}
+
+.serimg2 {
+  height: 100px;
+  width: 100px;
+}
+.serimg3 {
+  height: 100px;
+  width: 100px;
+}
+
+.contacthead {
+  padding-top: 30px;
+  text-align: center;
+  font-size: 50px;
+  color: white;
+  font-weight: bold;
+  font-family: sans-serif;
+}
+
+.bgcont {
+  background-image: url("/pawank23/images/Background\ \(2\).png");
+  height: 620px;
+}
+.form {
+  height: 300px;
+  width: auto;
+}
+
+.inputform {
+  display: flex;
+  width: 100%;
+  height: 100%;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 40px;
+}
+.inputfield {
+  width: 400px;
+  height: 50px;
+  padding: 4px;
+  border-radius: 2px;
+}
+.textarea {
+  padding: 4px;
+  height: 300px;
+  width: 400px;
+  border-radius: 2px;
+}
+.button2 {
+  margin-top: 30px;
+  padding: 10px 18px 10px 18px;
+  font-size: 16px;
+  font-weight: 100;
+  background-color: rgb(248, 234, 79);
+  border: 2px none;
+  text-align: center;
+  color: white;
+  display: flex;
+  justify-content: center;
+  margin-left: 620px;
+  /* position: relative; */
+  margin-top: 40px;
+}
+.footer {
+  height: 100px;
+  background-color: white;
+}
+.footerflex {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+  gap: 20px;
+}
+
+.svg {
+  margin-top: 13px;
+}
